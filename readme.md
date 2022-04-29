@@ -5,7 +5,7 @@ Tetanus is a free and open source script to setup a rust development environment
 ## Running it
 
 ```
-curl -sL raw.githubusercontent.com/tetanus/tetanus/master/install.sh | sh
+curl -sL raw.githubusercontent.com/micziz/tetanus/master/src/install.sh | sh
 ```
 
 ## License
